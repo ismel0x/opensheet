@@ -4,7 +4,7 @@
   "scripts": {
     "dev": "wrangler dev",
     "deploy": "wrangler deploy",
-    "add-env-variables": "AIzaSyBpYm9O5aoVB79Kt-H01CtMEjl82lrI3yQ"
+    "add-env-variables": "API_KEY"
   },
   "author": "Ben Borgers <benborgers@hey.com>",
   "devDependencies": {
