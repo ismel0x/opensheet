@@ -4,7 +4,7 @@
   "scripts": {
     "dev": "wrangler dev",
     "deploy": "wrangler deploy",
-    "add-env-variables": "wrangler secret put GOOGLE_API_KEY"
+    "add-env-variables": "AIzaSyBpYm9O5aoVB79Kt-H01CtMEjl82lrI3yQ"
   },
   "author": "Ben Borgers <benborgers@hey.com>",
   "devDependencies": {
